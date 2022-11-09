@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("hi,doudou");
         System.out.println("hello,doudou");
         System.out.println("hello,wenyu");
+        System.out.println("hello,hot fix ");
+        System.out.println("hello,hot fix2");
     }
 }
